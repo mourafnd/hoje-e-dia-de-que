@@ -50,3 +50,34 @@ def gerar_description_e_keywords(conteudo, dia_formatado):
 
     for linha in linhas:
         if "Descrição" in linha:
+            descricao = linha.split(":", 1)[1].strip()
+        elif "Keywords" in linha:
+            keywords = linha.split(":", 1)[1].strip()
+
+    return descricao, keywords
+
+def salvar_post(conteudo, descricao, keywords, data_obj):
+    titulo = f"Hoje é dia de quê? - {data_obj.strftime('%d de %B')}"
+    slug = data_obj.strftime("%d-%m")
+    nome_arquivo = f"content/posts/hoje-e-dia-{slug}.md"
+
+    with open(nome_arquivo, "w", encoding="utf-8") as f:
+        f.write("---\n")
+        f.write(f'title: "{titulo}"\n')
+        f.write(f"date: {data_obj.isoformat()}\n")
+        f.write(f'slug: "hoje-e-dia-{slug}"\n')
+        f.write(f'description: "{descricao}"\n')
+        f.write(f'keywords: [{", ".join(f\'"{k.strip()}"\' for k in keywords.split(","))}]\n')
+        f.write("---\n\n")
+        f.write(conteudo)
+
+def main():
+    hoje = datetime.now()
+    dia_formatado = hoje.strftime("%d de %B")
+
+    conteudo = gerar_conteudo(dia_formatado)
+    descricao, keywords = gerar_description_e_keywords(conteudo, dia_formatado)
+    salvar_post(conteudo, descricao, keywords, hoje)
+
+if __name__ == "__main__":
+    main()
