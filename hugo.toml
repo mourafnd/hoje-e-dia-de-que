@@ -1,0 +1,14 @@
+baseURL = "https://hojeedia.netlify.app/"
+languageCode = "pt-br"
+title = "Hoje é dia de quê?"
+theme = "PaperMod"
+
+[params]
+defaultTheme = "light"
+ShowShareButtons = true
+
+[menu]
+[[menu.main]]
+identifier = "home"
+name = "Início"
+url = "/"
