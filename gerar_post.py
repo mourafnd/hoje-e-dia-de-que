@@ -16,7 +16,7 @@ def gerar_conteudo(dia_formatado):
     """
 
     resposta = client.chat.completions.create(
-        model="gpt-4",
+        model="gpt-3.5-turbo",
         messages=[
             {"role": "user", "content": prompt}
         ],
