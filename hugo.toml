@@ -1,14 +1,22 @@
-baseURL = "https://hojeedia.netlify.app/"
+baseURL = "https://hojeediadeque.netlify.app/"
 languageCode = "pt-br"
 title = "Hoje é dia de quê?"
+description = "Descubra o que se comemora hoje no Brasil e no mundo. Veja aniversários, fatos históricos e curiosidades diárias."
+author = "Fernando Moura"
 theme = "PaperMod"
 
 [params]
 defaultTheme = "light"
+ShowReadingTime = false
 ShowShareButtons = true
+ShowPostNavLinks = true
 
 [menu]
 [[menu.main]]
 identifier = "home"
 name = "Início"
 url = "/"
+
+# SEO
+enableRobotsTXT = true
+canonifyURLs = true
