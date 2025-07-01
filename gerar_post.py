@@ -1,9 +1,9 @@
-import openai
+from openai import OpenAI
 from datetime import datetime
 import os
 
-# Configure sua chave da OpenAI
-openai.api_key = os.getenv("OPENAI_API_KEY")
+# Usa a nova forma de autenticação
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 def gerar_conteudo(dia_formatado):
     prompt = f"""
@@ -14,7 +14,8 @@ def gerar_conteudo(dia_formatado):
     
     Formate com títulos e tópicos. Use emojis para separar as seções.
     """
-    resposta = openai.ChatCompletion.create(
+
+    resposta = client.chat.completions.create(
         model="gpt-4",
         messages=[
             {"role": "user", "content": prompt}
@@ -22,6 +23,7 @@ def gerar_conteudo(dia_formatado):
         temperature=0.7,
         max_tokens=800
     )
+
     return resposta.choices[0].message.content.strip()
 
 def salvar_post(conteudo, data_obj):
