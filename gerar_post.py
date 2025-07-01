@@ -61,15 +61,18 @@ def salvar_post(conteudo, descricao, keywords, data_obj):
     slug = data_obj.strftime("%d-%m")
     nome_arquivo = f"content/posts/hoje-e-dia-{slug}.md"
 
+    keywords_formatadas = [f'"{k.strip()}"' for k in keywords.split(",")]
+
     with open(nome_arquivo, "w", encoding="utf-8") as f:
         f.write("---\n")
         f.write(f'title: "{titulo}"\n')
         f.write(f"date: {data_obj.isoformat()}\n")
         f.write(f'slug: "hoje-e-dia-{slug}"\n')
         f.write(f'description: "{descricao}"\n')
-        f.write(f'keywords: [{", ".join(f\'"{k.strip()}"\' for k in keywords.split(","))}]\n')
+        f.write(f'keywords: [{", ".join(keywords_formatadas)}]\n')
         f.write("---\n\n")
         f.write(conteudo)
+
 
 def main():
     hoje = datetime.now()
