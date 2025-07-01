@@ -2,15 +2,40 @@
 <html lang="pt-br">
   <head>
     <meta charset="UTF-8" />
-    <meta name="robots" content="noindex">
+    <meta name="robots" content="noindex" />
     <script>
-      const hoje = new Date();
-      const dia = String(hoje.getDate()).padStart(2, '0');
-      const mes = String(hoje.getMonth() + 1).padStart(2, '0');
-      const url = `/posts/hoje-e-dia-${dia}-${mes}/`;
-      window.location.href = url;
+      async function redirecionarParaPost() {
+        const hoje = new Date();
+        const dia = String(hoje.getDate()).padStart(2, '0');
+        const mes = String(hoje.getMonth() + 1).padStart(2, '0');
+        const url = `/posts/hoje-e-dia-${dia}-${mes}/`;
+
+        try {
+          const resposta = await fetch(url, { method: 'HEAD' });
+
+          if (resposta.ok) {
+            window.location.href = url;
+          } else {
+            // Fallback para o post de ontem
+            const ontem = new Date(hoje);
+            ontem.setDate(hoje.getDate() - 1);
+            const d = String(ontem.getDate()).padStart(2, '0');
+            const m = String(ontem.getMonth() + 1).padStart(2, '0');
+            const fallback = `/posts/hoje-e-dia-${d}-${m}/`;
+            window.location.href = fallback;
+          }
+        } catch (e) {
+          document.body.innerHTML = `
+            <p>😕 Não foi possível carregar o post de hoje.</p>
+            <p><a href="/posts/">Veja todos os posts</a></p>
+          `;
+        }
+      }
+
+      redirecionarParaPost();
     </script>
   </head>
   <body>
+    <p>Redirecionando para o post do dia...</p>
   </body>
 </html>
