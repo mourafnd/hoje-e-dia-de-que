@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex">
+    <script>
+      const hoje = new Date();
+      const dia = String(hoje.getDate()).padStart(2, '0');
+      const mes = String(hoje.getMonth() + 1).padStart(2, '0');
+      const url = `/post/hoje-e-dia-${dia}-${mes}/`;
+      window.location.href = url;
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
