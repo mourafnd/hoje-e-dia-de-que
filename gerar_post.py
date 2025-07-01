@@ -59,7 +59,11 @@ def gerar_description_e_keywords(conteudo, dia_formatado):
 def salvar_post(conteudo, descricao, keywords, data_obj):
     titulo = f"Hoje é dia de quê? - {data_obj.strftime('%d de %B')}"
     slug = data_obj.strftime("%d-%m")
-    nome_arquivo = f"content/posts/hoje-e-dia-{slug}.md"
+    pasta_posts = "content/posts"
+    nome_arquivo = f"{pasta_posts}/hoje-e-dia-{slug}.md"
+
+    # Garante que a pasta content/posts existe
+    os.makedirs(pasta_posts, exist_ok=True)
 
     keywords_formatadas = [f'"{k.strip()}"' for k in keywords.split(",")]
 
