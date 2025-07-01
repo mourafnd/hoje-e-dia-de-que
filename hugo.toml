@@ -13,9 +13,15 @@ ShowPostNavLinks = true
 
 [menu]
 [[menu.main]]
-identifier = "home"
 name = "Início"
 url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Sobre"
+url = "/sobre/"
+weight = 2
+
 
 # SEO
 enableRobotsTXT = true
