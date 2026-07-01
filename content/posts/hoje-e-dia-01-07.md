@@ -1,29 +1,26 @@
 ---
 title: "Hoje é dia de quê? - 01 de July"
-date: 2025-07-01T18:31:07.430049
+date: 2026-07-01T07:11:05.226967
 slug: "hoje-e-dia-01-07"
-description: "Descubra as datas comemorativas, eventos históricos e pessoas famosas que marcaram o dia 01 de July."
+description: ""
 keywords: [""]
 ---
 
-🎉 Principais datas comemorativas:
+🎉 Principais Datas Comemorativas:
 
-- Dia do Comerciante (Brasil)
-- Dia Nacional do Selo (Brasil)
-- Dia do Engenheiro de Minas (Brasil)
-- Dia Mundial do Hambúrguer
+- Dia do Profissional de Recursos Humanos (Brasil)
+- Dia Internacional do Reggae (Mundo)
 
-🎈 Pessoas famosas que nasceram em 01 de July:
+🎈 Pessoas Famosas que Nasceram em 01 de July:
 
 - Liv Tyler, atriz norte-americana
 - Dan Aykroyd, ator e comediante canadense
 
-💔 Pessoas famosas que faleceram em 01 de July:
+💔 Pessoas Famosas que Faleceram em 01 de July:
 
-- Diana Spencer, conhecida como Princesa Diana
-- Marlon Brando, ator norte-americano
+- Diana, Princesa de Gales
 
-📰 Eventos históricos marcantes:
+📅 Eventos Históricos Marcantes:
 
-- Em 1863, ocorreu a Batalha de Gettysburg durante a Guerra Civil Americana, considerada uma das mais sangrentas e importantes batalhas da guerra.
-- Em 1963, o Quênia se tornou independente do Reino Unido.
+- Em 1863, durante a Guerra Civil Americana, a Batalha de Gettysburg teve início, se tornando um dos momentos mais sangrentos da guerra.
+- Em 1963, a Grã-Bretanha concedeu independência à Rodésia do Sul, que posteriormente se tornou o Zimbábue.
