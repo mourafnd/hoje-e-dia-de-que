@@ -1,32 +1,32 @@
 ---
 title: "Hoje é dia de quê? - 02 de July"
-date: 2025-07-02T03:50:19.689662
+date: 2026-07-02T06:40:27.361453
 slug: "hoje-e-dia-02-07"
-description: ""Descubra as datas comemorativas, aniversariantes famosos e eventos históricos do dia 02 de July neste blog especial!""
+description: ""
 keywords: [""]
 ---
 
 🎉 Principais datas comemorativas:
 
 - Dia do Bombeiro Brasileiro
-- Dia Nacional do Bombeiro Militar
+- Dia do Hospital
 
 🌍 Principais datas comemorativas no mundo:
 
-- Dia Internacional do Bombeiro
-- Dia Mundial do UFO
+- Dia do Esporte para o Desenvolvimento e a Paz (ONU)
+- Dia Internacional do Cooperativismo
 
-🎂 Aniversariantes famosos:
+🎂 Pessoas famosas que nasceram em 02 de July:
 
-- Nascimentos:
-  1. Lindsay Lohan, atriz norte-americana
-  2. Margot Robbie, atriz australiana
+- Lindsay Lohan, atriz norte-americana
+- Margot Robbie, atriz australiana
 
-⚰️ Falecimentos:
+💔 Pessoas famosas que faleceram em 02 de July:
 
-- Não foram encontradas informações sobre pessoas famosas que faleceram em 02 de July.
+- Ernest Hemingway, escritor norte-americano
+- James Stewart, ator norte-americano
 
 📰 Eventos históricos marcantes:
 
-- Em 02 de July de 1964, o presidente dos Estados Unidos, Lyndon B. Johnson, assinou a Lei dos Direitos Civis, proibindo a discriminação racial em locais públicos.
-- Em 02 de July de 1776, o Congresso Continental votou pela independência das Treze Colônias, dando início à Guerra de Independência dos Estados Unidos.
+- Em 1962, o primeiro satélite de comunicação de televisão, Telstar 1, foi lançado ao espaço.
+- Em 1776, o Congresso Continental adotou a Declaração da Independência dos Estados Unidos.
