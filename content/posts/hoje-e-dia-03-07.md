@@ -1,23 +1,31 @@
 ---
 title: "Hoje é dia de quê? - 03 de July"
-date: 2025-07-03T03:52:33.888033
+date: 2026-07-03T06:31:55.313869
 slug: "hoje-e-dia-03-07"
 description: ""
 keywords: [""]
 ---
 
-🎉 Principais datas comemorativas no Brasil e no mundo:
+🎉 Principais datas comemorativas:
 
 - Dia do Bombeiro Brasileiro
 - Dia Internacional do Cooperativismo
 
-🌍 Pessoas famosas que nasceram em 03 de July:
-- Tom Cruise, ator norte-americano
-- Olivia Munn, atriz e modelo norte-americana
+🌎 Principais datas comemorativas no mundo:
 
-💔 Pessoas famosas que faleceram em 03 de July:
-- Tom Sawyer, personagem fictício criado por Mark Twain
+- Dia Internacional das Cooperativas
 
-📰 Eventos históricos marcantes:
-- Em 1988, o navio de guerra USS Vincennes derruba um avião de passageiros iraniano, matando todas as 290 pessoas a bordo.
-- Em 1971, Jim Morrison, vocalista da banda The Doors, é encontrado morto em Paris, aos 27 anos.
+🎂 Aniversariantes famosos:
+
+- Pessoa famosa 1
+- Pessoa famosa 2
+
+💔 Falecimentos de pessoas famosas:
+
+- Pessoa famosa 1
+- Pessoa famosa 2
+
+📜 Eventos históricos marcantes:
+
+- Em 1911, a IBM foi fundada nos Estados Unidos.
+- Em 1988, o navio USS Vincennes disparou contra um avião civil iraniano, resultando na morte de 290 pessoas.
