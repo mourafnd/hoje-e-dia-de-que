@@ -1,6 +1,6 @@
 ---
 title: "Hoje é dia de quê? - 05 de July"
-date: 2025-07-05T03:45:03.582368
+date: 2026-07-05T06:40:01.639499
 slug: "hoje-e-dia-05-07"
 description: ""
 keywords: [""]
@@ -9,15 +9,18 @@ keywords: [""]
 🎉 Principais datas comemorativas:
 
 - Dia da Independência da Venezuela
-- Dia Mundial da Ação Climática
+- Dia Mundial da Ação pelo Clima
 
 🎂 Aniversariantes famosos:
-- Nascimento de Huey Lewis, cantor e ator americano
-- Nascimento de Edie Falco, atriz americana
 
-💔 Falecimentos:
-- Falecimento de Eva Perón, política argentina
+- Nascimentos:
+  - P. T. Barnum, empresário e showman americano
+  - Huey Lewis, cantor e ator americano
+
+- Falecimentos:
+  - Eva Perón, política argentina
 
 📜 Eventos históricos marcantes:
-- Em 1946, a Assembleia Constituinte da Itália proclama a República Italiana.
-- Em 2016, a sonda Juno entra na órbita de Júpiter para estudar o planeta.
+
+- Em 1946, a Assembleia Geral das Nações Unidas realizou sua primeira reunião em Londres.
+- Em 2016, a sonda Juno da NASA entrou na órbita de Júpiter, após uma viagem de cinco anos.
