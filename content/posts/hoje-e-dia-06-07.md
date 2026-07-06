@@ -1,32 +1,31 @@
 ---
 title: "Hoje é dia de quê? - 06 de July"
-date: 2025-07-06T03:54:26.178807
+date: 2026-07-06T07:11:57.311422
 slug: "hoje-e-dia-06-07"
-description: "Descubra as curiosidades e eventos marcantes do dia 06 de July, incluindo datas comemorativas e aniversariantes famosos."
+description: "Descubra as datas comemorativas, eventos históricos e celebridades que fazem do dia 06 de July uma data especial."
 keywords: [""]
 ---
 
 🎉 Principais datas comemorativas:
 
-- Dia da Virgem Maria
 - Dia Internacional do Beijo
 
-🌎 Principais datas comemorativas no mundo:
+🌍 Principais datas comemorativas no Brasil e no mundo:
 
-- Dia Mundial do Beijo
-- Dia Internacional do Cooperativismo
+- Dia da Constituição da Ucrânia
+- Dia do Engenheiro de Minas
 
-🎂 Aniversariantes famosos:
+🎂 Pessoas famosas que nasceram em 06 de July:
 
-- Nascimentos:
-  - George W. Bush, ex-presidente dos Estados Unidos
-  - Sylvester Stallone, ator
+- George W. Bush, ex-presidente dos Estados Unidos
+- Frida Kahlo, famosa pintora mexicana
 
-⚰️ Falecimentos:
+💔 Pessoas famosas que faleceram em 06 de July:
 
-- Não há registros de pessoas famosas que faleceram nesse dia.
+- Thomas Jefferson, terceiro presidente dos Estados Unidos
+- Frida Kahlo, famosa pintora mexicana
 
-📅 Eventos históricos marcantes:
+📰 Eventos históricos marcantes:
 
-- Em 1885, Louis Pasteur testou com sucesso a vacina contra a raiva em um garoto que havia sido mordido por um cão raivoso.
-- Em 1944, durante a Segunda Guerra Mundial, as forças aliadas desembarcaram na Normandia, na conhecida operação "Dia D".
+- Em 1944, durante a Segunda Guerra Mundial, as forças aliadas desembarcaram na Normandia, na conhecida como "Operação Overlord".
+- Em 1854, foi fundado o Partido Republicano dos Estados Unidos.
