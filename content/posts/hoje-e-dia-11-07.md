@@ -1,34 +1,27 @@
 ---
 title: "Hoje é dia de quê? - 11 de July"
-date: 2025-07-11T03:57:43.889573
+date: 2026-07-11T05:40:09.565985
 slug: "hoje-e-dia-11-07"
-description: ""
+description: "Descubra fatos históricos, celebridades e datas comemorativas do dia 11 de July neste blog especial!"
 keywords: [""]
 ---
 
 🎉 Principais datas comemorativas:
 
-- Dia mundial da população
-- Dia do advogado
-- Dia de São Bento
+- Dia Mundial da População
+- Dia Mundial da Solidariedade
 
-🌎 Principais datas comemorativas no mundo:
+🎂 Pessoas famosas que nasceram em 11 de July:
 
-- World Population Day
-- World Population Day
-- World Population Day
-
-🌟 Pessoas famosas que nasceram em 11 de July:
-
-- Lil' Kim, rapper americana
-- Giorgio Armani, estilista italiano
+- Yul Brynner, ator russo (1920)
+- Lisa Rinna, atriz americana (1963)
 
 💔 Pessoas famosas que faleceram em 11 de July:
 
-- Tab Hunter, ator americano
-- Eunice Kathleen Shriver, fundadora da Special Olympics
+- John Quincy Adams, 6º presidente dos Estados Unidos (1848)
+- Giorgio de Chirico, pintor italiano (1978)
 
-📰 Eventos históricos marcantes:
+📅 Eventos históricos marcantes:
 
-- Em 1979, a Nicarágua se tornou o primeiro país da América Central a adotar um governo de esquerda, liderado pelo partido Frente Sandinista de Libertação Nacional.
+- Em 1921, a Mongólia conquistou sua independência da China.
 - Em 1960, a República Democrática do Congo conquistou sua independência da Bélgica.
