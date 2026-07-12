@@ -1,32 +1,22 @@
 ---
 title: "Hoje é dia de quê? - 12 de July"
-date: 2025-07-12T03:53:10.623590
+date: 2026-07-12T05:57:17.397354
 slug: "hoje-e-dia-12-07"
 description: ""
 keywords: [""]
 ---
 
-🎉 Principais datas comemorativas:
-
-- Dia da Independência dos Estados Unidos
-- Dia Nacional do Engenheiro Florestal (Brasil)
-
-🌍 Principais datas comemorativas no mundo:
-
-- Dia Mundial da Malala
-- Dia da Cidade de São Petersburgo (Rússia)
+🎉 Principais datas comemorativas no Brasil e no mundo:
+- No Brasil, hoje é comemorado o Dia do Engenheiro Florestal.
+- No mundo, hoje é o Dia da Malala, em homenagem à ativista paquistanesa Malala Yousafzai.
 
 🌟 Pessoas famosas que nasceram em 12 de July:
-
-- Bill Cosby, ator e comediante americano
-- Michelle Rodriguez, atriz americana
+- O ator Harrison Ford nasceu em 1942.
+- A cantora e atriz Christine McVie, do Fleetwood Mac, nasceu em 1943.
 
 💔 Pessoas famosas que faleceram em 12 de July:
+- O escritor brasileiro Monteiro Lobato faleceu em 1948.
 
-- Ingrid Bergman, atriz sueca
-- Henry David Thoreau, escritor e filósofo americano
-
-📅 Eventos históricos marcantes:
-
-- Em 1962, os Rolling Stones fizeram sua primeira apresentação em Londres, Inglaterra.
-- Em 2006, a seleção italiana de futebol venceu a Copa do Mundo FIFA, derrotando a França na final.
+📜 Eventos históricos marcantes:
+- Em 1967, o músico Jimi Hendrix se apresentou pela primeira vez no Reino Unido, no estádio Saville Theatre, em Londres.
+- Em 1984, a cantora Tina Turner lançou o álbum "Private Dancer", que se tornou um grande sucesso mundial.
