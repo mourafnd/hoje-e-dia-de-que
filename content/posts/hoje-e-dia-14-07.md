@@ -1,8 +1,8 @@
 ---
 title: "Hoje é dia de quê? - 14 de July"
-date: 2025-07-14T04:01:44.182574
+date: 2026-07-14T05:29:13.903039
 slug: "hoje-e-dia-14-07"
-description: ""
+description: "Descubra fatos históricos e celebridades nascidas em 14 de July. Saiba mais sobre a Queda da Bastilha e a sonda Mariner 4."
 keywords: [""]
 ---
 
@@ -10,25 +10,23 @@ keywords: [""]
 
 - Dia da Bastilha (França)
 - Dia do Engenheiro de Aquicultura (Brasil)
-- Dia Nacional do Propagandista de Laboratório (Brasil)
 
 🌍 Principais datas comemorativas no mundo:
 
-- Dia da Bastilha (França)
-- Dia de São Camilo de Léllis (Itália)
-- Dia de São Boaventura (Itália)
+- Dia da Independência dos Estados Unidos
+- Dia de São Camilo de Lellis
 
-🎂 Pessoas famosas que nasceram em 14 de July:
+🎈 Pessoas famosas que nasceram em 14 de July:
 
 - Woody Guthrie, cantor e compositor norte-americano
 - Ingmar Bergman, cineasta sueco
 
 💔 Pessoas famosas que faleceram em 14 de July:
 
-- Francisco de Paula Rodrigues Alves, ex-presidente do Brasil
-- Robert Hooke, cientista britânico
+- Tom Lantos, político húngaro-americano
+- Natalia Ginzburg, escritora italiana
 
 📰 Eventos históricos marcantes:
 
-- Em 1789, ocorreu a Queda da Bastilha, evento que marcou o início da Revolução Francesa.
-- Em 1965, a sonda espacial Mariner 4 foi lançada pela NASA, tornando-se a primeira a enviar imagens de Marte para a Terra.
+- Em 1789, ocorreu a Queda da Bastilha, marco inicial da Revolução Francesa.
+- Em 1965, a sonda norte-americana Mariner 4 passou por Marte e enviou as primeiras imagens do planeta vermelho.
