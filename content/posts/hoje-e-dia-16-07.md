@@ -1,28 +1,32 @@
 ---
 title: "Hoje é dia de quê? - 16 de July"
-date: 2025-07-16T03:57:40.986484
+date: 2026-07-16T05:39:36.102729
 slug: "hoje-e-dia-16-07"
-description: "Descubra as datas comemorativas, eventos históricos e pessoas famosas que fazem do dia 16 de julho uma data especial."
+description: ""
 keywords: [""]
 ---
 
-🎉 Principais datas comemorativas no Brasil e no mundo:
+🎉 Principais datas comemorativas:
 
-- Dia Mundial do Rock
-- Dia da Nossa Senhora do Carmo (Brasil)
-- Dia do Comerciante (Brasil)
-- Dia de Nosso Senhor do Bonfim (Brasil)
+- Dia da Nossa Senhora do Carmo
+- Dia do Comerciante
+
+🌎 Principais datas comemorativas no mundo:
+
+- Dia Mundial do Reggae
+- Dia Internacional do Líder Juvenil
 
 🎂 Pessoas famosas que nasceram em 16 de July:
 
-- Angela Merkel, Chanceler da Alemanha
-- Will Ferrell, ator e comediante americano
+- Will Ferrell, ator e comediante norte-americano
+- Gareth Bale, jogador de futebol galês
 
 💔 Pessoas famosas que faleceram em 16 de July:
 
-- Cora Coralina, escritora brasileira
+- John Jacob Astor IV, empresário e investidor norte-americano
+- Ginger Rogers, atriz e dançarina norte-americana
 
-📅 Eventos históricos marcantes:
+📰 Eventos históricos marcantes:
 
-- Em 1945, a primeira bomba atômica foi testada com sucesso no Novo México, marcando o início da era nuclear.
-- Em 1969, a Apollo 11 foi lançada ao espaço com o objetivo de levar os primeiros seres humanos à Lua, o que foi alcançado alguns dias depois.
+- Em 1945, no final da Segunda Guerra Mundial, os Estados Unidos realizaram com sucesso o primeiro teste de uma bomba atômica em Alamogordo, Novo México.
+- Em 1969, a Apollo 11 foi lançada ao espaço, com o objetivo de levar os primeiros astronautas à Lua.
