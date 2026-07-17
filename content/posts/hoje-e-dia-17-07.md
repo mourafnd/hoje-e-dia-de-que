@@ -1,26 +1,26 @@
 ---
 title: "Hoje é dia de quê? - 17 de July"
-date: 2025-07-17T03:57:08.948122
+date: 2026-07-17T05:41:36.738782
 slug: "hoje-e-dia-17-07"
-description: "Descubra fatos históricos e curiosidades sobre o dia 17 de July, incluindo datas comemorativas e eventos marcantes."
+description: ""
 keywords: [""]
 ---
 
-🎉 Principais datas comemorativas:
+🎉 Principais datas comemorativas no Brasil e no mundo:
 
 - Dia Mundial do Emoji
-- Dia Mundial do Protetor de Elefantes
+- Dia Mundial do Enfermeiro
 
-🎂 Pessoas famosas que nasceram em 17 de July:
+🎈 Pessoas famosas que nasceram em 17 de July:
 
-- Camilla Parker Bowles, Duquesa da Cornualha
-- Angela Merkel, Chanceler da Alemanha
+- Angela Merkel, política alemã
+- David Hasselhoff, ator e cantor americano
 
 💔 Pessoas famosas que faleceram em 17 de July:
 
-- John Coltrane, músico norte-americano
+- William Makepeace Thackeray, escritor britânico
 
-📰 Eventos históricos marcantes:
+📜 Eventos históricos marcantes:
 
-- Em 1945, a Conferência de Potsdam começa, onde líderes dos Aliados se reúnem para discutir o futuro da Europa pós-Segunda Guerra Mundial.
-- Em 1996, a TWA Flight 800 explode no ar logo após decolar de Nova York, matando todas as 230 pessoas a bordo.
+- Em 1945, a Conferência de Potsdam foi iniciada, onde líderes dos Aliados se reuniram para discutir a ocupação e a reconstrução da Alemanha após a Segunda Guerra Mundial.
+- Em 1996, durante os Jogos Olímpicos de Verão em Atlanta, nos Estados Unidos, uma bomba explodiu no Parque Olímpico Centennial, matando duas pessoas e ferindo outras 111.
