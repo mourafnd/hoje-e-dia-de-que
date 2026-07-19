@@ -1,32 +1,28 @@
 ---
 title: "Hoje é dia de quê? - 19 de July"
-date: 2025-07-19T03:52:15.916982
+date: 2026-07-19T05:51:40.559324
 slug: "hoje-e-dia-19-07"
-description: "Descubra as datas comemorativas, eventos históricos e celebridades que fazem do dia 19 de July uma data especial."
+description: ""
 keywords: [""]
 ---
 
-🎉 Principais datas comemorativas:
+🎉 Principais datas comemorativas no Brasil e no mundo:
 
-- Dia da Caridade
-- Dia Nacional do Futebol
-
-🌍 Principais datas comemorativas no mundo:
-
+- Dia da Caridade (Brasil)
+- Dia Nacional do Futebol (Brasil)
 - Dia Internacional da Amizade
-- Dia Mundial da Diversidade Cultural
 
-🎂 Pessoas famosas que nasceram em 19 de July:
+🌟 Pessoas famosas que nasceram em 19 de July:
 
 - Benedict Cumberbatch, ator britânico
-- Brian May, guitarrista da banda Queen
+- Anthony Edwards, ator norte-americano
 
 💔 Pessoas famosas que faleceram em 19 de July:
 
 - Edgar Degas, pintor francês
-- Amy Winehouse, cantora britânica
+- John Coltrane, músico norte-americano
 
-📰 Eventos históricos marcantes:
+📜 Eventos históricos marcantes:
 
-- Em 1848, a primeira Convenção dos Direitos das Mulheres aconteceu em Seneca Falls, EUA.
-- Em 1961, a Tanganica se tornou independente do Reino Unido e se uniu com Zanzibar para formar a Tanzânia.
+- Em 1848, a Convenção de Seneca Falls, nos Estados Unidos, foi realizada para discutir os direitos das mulheres, sendo um marco importante no movimento feminista.
+- Em 1977, a NASA lançou a sonda espacial Voyager 2, que fez importantes descobertas sobre os planetas do Sistema Solar e continua ativa até hoje.
