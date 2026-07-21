@@ -1,29 +1,38 @@
 ---
 title: "Hoje é dia de quê? - 21 de July"
-date: 2025-07-21T04:03:58.621919
+date: 2026-07-21T05:49:24.603418
 slug: "hoje-e-dia-21-07"
-description: ""
+description: "Descubra fatos e curiosidades sobre o dia 21 de July, incluindo datas comemorativas, nascimentos e eventos históricos marcantes."
 keywords: [""]
 ---
 
 🎉 Principais datas comemorativas:
 
-- Dia do Trabalhador Doméstico (Brasil)
-- Dia Mundial da Liberdade de Imprensa
+- Dia Mundial da Paz
+- Dia Nacional do Homem
 
-🎂 Aniversariantes famosos:
+🌎 Principais datas comemorativas no mundo:
 
-- Nasceram em 21 de July:
-  - Ernest Hemingway, escritor norte-americano
-  - Robin Williams, ator norte-americano
+- Independence Day (Dia da Independência dos Estados Unidos)
+- Dia da Bastilha (França)
+- Dia Nacional da Bélgica
 
-⚰️ Falecimentos famosos:
+🇧🇷 Principais datas comemorativas no Brasil:
 
-- Faleceram em 21 de July:
-  - Ernest Hemingway, escritor norte-americano
-  - Neil Armstrong, astronauta norte-americano
+- Dia do Amigo
+- Dia Nacional do Combate à Intolerância Religiosa
 
-📰 Eventos históricos marcantes:
+🎂 Pessoas famosas que nasceram em 21 de July:
 
-- Em 1969, Neil Armstrong se tornou o primeiro homem a pisar na Lua durante a missão Apollo 11.
-- Em 1925, o livro "The Great Gatsby", escrito por F. Scott Fitzgerald, foi publicado pela primeira vez.
+- Ernest Hemingway, escritor norte-americano
+- Robin Williams, ator norte-americano
+
+💔 Pessoas famosas que faleceram em 21 de July:
+
+- Ernest Hemingway, escritor norte-americano
+- Princess Diana, Princesa de Gales
+
+📅 Eventos históricos marcantes:
+
+- Em 1969, a missão Apollo 11 pousou na Lua, tornando-se a primeira missão tripulada a alcançar a superfície lunar.
+- Em 1925, o famoso julgamento de John Scopes, conhecido como o "Julgamento do Macaco", teve início nos Estados Unidos, envolvendo o ensino da teoria da evolução nas escolas públicas.
