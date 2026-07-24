@@ -1,6 +1,6 @@
 ---
 title: "Hoje é dia de quê? - 24 de July"
-date: 2025-07-24T03:59:28.932394
+date: 2026-07-24T05:49:18.291110
 slug: "hoje-e-dia-24-07"
 description: ""
 keywords: [""]
@@ -8,24 +8,26 @@ keywords: [""]
 
 🎉 Principais datas comemorativas:
 
-- Dia do Cosmonauta (Rússia)
-- Dia do Agricultor
-- Dia de São Cristóvão
+- Dia do Escritor
+- Dia Nacional do Sorvete
+- Dia de São Charbel
 
 🌍 Principais datas comemorativas no mundo:
 
 - Dia Internacional do Autismo
+- Dia Mundial do Café
+- Dia da Independência da Libéria
 
-🌟 Pessoas famosas que nasceram neste dia:
+🎈 Pessoas famosas que nasceram em 24 de July:
 
 - Amelia Earhart, pioneira da aviação
 - Jennifer Lopez, cantora e atriz
 
-💔 Pessoas famosas que faleceram neste dia:
+💔 Pessoas famosas que faleceram em 24 de July:
 
-- Simón Bolívar, líder da independência da América Latina
+- Alexander the Great, conquistador e líder militar
 
-📰 Eventos históricos marcantes:
+📜 Eventos históricos marcantes:
 
-- Em 1969, o homem pisou na Lua pela primeira vez durante a missão Apollo 11.
-- Em 2005, o Cometa Tempel 1 foi atingido pela sonda espacial Deep Impact, proporcionando novas descobertas sobre a composição de cometas.
+- Em 1911, Machu Picchu, a cidade inca perdida, foi redescoberta pelo explorador Hiram Bingham.
+- Em 1969, a missão Apollo 11 pousou na Lua, com Neil Armstrong se tornando o primeiro ser humano a pisar na superfície lunar.
